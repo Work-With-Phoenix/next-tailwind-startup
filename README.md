@@ -27,7 +27,10 @@
     cp -r next-tailwind-startup my-project
 
     #go to the new directory
-    cd my-project
+    cd my-project  
+    
+    #to build your project run
+    npm run build
 
     #install packages
     npm install
