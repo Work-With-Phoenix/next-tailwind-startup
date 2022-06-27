@@ -4,17 +4,17 @@
   </a>
 </p>
 <h1 align="center">
-  Nextjs & Tailwindcss Project Startup
+  Next.js & Tailwindcss Project Startup
 </h1>
 
 ## 🚀 Quick start
 
-1.  **Create a Nextjs site.**
+1.  **Create a Next.js site.**
 
     Clone the project repository to get access to the startup directory.
 
     ```shell
-    # clone the nextjs & tailwind project startup repository
+    # clone the next.js & tailwind project startup repository
     git clone -b main https://github.com/Work-With-Phoenix/next-tailwind-startup
     ```
 
