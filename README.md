@@ -36,7 +36,10 @@
     npm run build
 
     #run server
-    npm start
+    npm start 
+    
+    #to run server in dev mode 
+    npm run dev
     ```
 
 3.  **Open the code and start customizing!**
