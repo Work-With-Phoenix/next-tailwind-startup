@@ -8,8 +8,8 @@ export default function Container (){
            
         <main className="flex-grow flex flex-col justify-center max-w-7xl w-full mx-auto my-auto px-4 sm:px-6 lg:px-8">
           <div className="flex-shrink-0 flex justify-center">
-            <Link href={"/"} className="inline-flex">
-            <a >
+            <Link href={"https://github.com/Work-With-Phoenix"} target={"_blank"} >
+            <a className="inline-flex">
               <span className="sr-only">Work With Phoenix</span>
               <svg className="h-10 w-10" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                        <path d="M26 32H6C2.686 32 0 29.314 0 26V6C0 2.686 2.686 0 6 0H26C29.314 0 32 2.686 32 6V26C32 29.314 29.314 32 26 32Z" fill="#4338ca"/>
@@ -24,7 +24,7 @@ export default function Container (){
               <h1 className="mt-2 text-4xl font-extrabold text-gray-900 tracking-tight sm:text-5xl">You got started.</h1>
               <p className="mt-2 text-base text-gray-500">Your Nextjs & Tailwind  are now in sync.</p>
               <div className="mt-6">
-                <Link href={"#"} target={"_blank"} >
+                <Link href={"https://github.com/Work-With-Phoenix/next-tailwind-startup#readme"} target={"_blank"} >
                   <a className="text-base font-medium text-indigo-600 hover:text-indigo-500 flex space-x-2">
                   <span>Documentation</span>
                   <span><svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg></span>
@@ -36,16 +36,16 @@ export default function Container (){
         </main>
         <footer className="flex-shrink-0 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8">
           <nav className="flex justify-center space-x-4">
-          <Link href={"#"} target={"_blank"} className="text-sm font-medium text-gray-500 hover:text-gray-600">
+          <Link href={"https://github.com/Work-With-Phoenix/.github/blob/main/profile/README.md"} target={"_blank"} className="text-sm font-medium text-gray-500 hover:text-gray-600">
              <a> Community</a>
             </Link>
             <span className="inline-block border-l border-gray-300" aria-hidden="true" />
-            <Link href={"#"} target={"_blank"} className="text-sm font-medium text-gray-500 hover:text-gray-600">
+            <Link href={"https://github.com/Work-With-Phoenix"} target={"_blank"} className="text-sm font-medium text-gray-500 hover:text-gray-600">
              <a> Tutorials</a>
               
             </Link>
             <span className="inline-block border-l border-gray-300" aria-hidden="true" />
-            <Link href={"#"} target={"_blank"} className="text-sm font-medium text-gray-500 hover:text-gray-600">
+            <Link href={"https://github.com/orgs/Work-With-Phoenix/repositories"} target={"_blank"} className="text-sm font-medium text-gray-500 hover:text-gray-600">
              <a> Resources</a>
               
             </Link>

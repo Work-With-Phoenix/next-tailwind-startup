@@ -28,12 +28,12 @@
 
     #go to the new directory
     cd my-project  
-    
-    #to build your project run
-    npm run build
 
     #install packages
-    npm install
+    npm install 
+     
+    #to build your project run
+    npm run build
 
     #run server
     npm start
