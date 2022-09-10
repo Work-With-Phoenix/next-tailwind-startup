@@ -14,8 +14,8 @@
     Clone the project repository to get access to the startup directory.
 
     ```shell
-    # clone the next.js & tailwind project startup repository
-    git clone -b main https://github.com/Work-With-Phoenix/next-tailwind-startup
+    # clone the next.js & tailwind project startup repository and copy  it to a project dir of your choice
+    git clone -b main https://github.com/Work-With-Phoenix/next-tailwind-startup my-project
     ```
 
 2.  **Start developing.**
@@ -23,8 +23,6 @@
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    #copy it to a project dir of your choice
-    cp -r next-tailwind-startup my-project
 
     #go to the new directory
     cd my-project  
